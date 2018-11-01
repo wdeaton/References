@@ -18,3 +18,20 @@
 
 [What Foods are Genetically Modified?](https://www.bestfoodfacts.org/what-foods-are-gmo/)
 
+---
+
+## Home Page
+
+To go back to the Home Page, click here! [Home](https://wdeaton.github.io/GMO-Introduction/)
+
+## Gmo History
+
+To view Blog one, click here! [GMO History](https://wdeaton.github.io/Gmos-Blog/)
+
+## Gmo Science
+
+To view Blog two about GMOs, click here! [GMO Science](https://wdeaton.github.io/Gmos-Blog-Science/)
+
+## Gmo Examples
+
+To view the Blog three, click here! [GMO Examples](https://wdeaton.github.io/GMOExamples/)
