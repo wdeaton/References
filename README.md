@@ -12,9 +12,9 @@
 [The Science of GMOs-Penn State](https://agsci.psu.edu/magazine/articles/2015/spring-summer/the-science-of-gmos) also serves as picture reference
 
 ## GMO Examples
-[here](https://www.theguardian.com/environment/2018/jun/24/genetically-engineered-animals-the-five-controversial-science)
+[Genetically Modified Animals](https://www.theguardian.com/environment/2018/jun/24/genetically-engineered-animals-the-five-controversial-science)
 
-[here](https://news.nationalgeographic.com/news/2010/03/100330-bacon-pigs-enviropig-dead-zones/)
+[Gene-Altered Enviropig to Reduce Dead Zones?](https://news.nationalgeographic.com/news/2010/03/100330-bacon-pigs-enviropig-dead-zones/)
 
-[here](https://www.bestfoodfacts.org/what-foods-are-gmo/)
+[What Foods are Genetically Modified?](https://www.bestfoodfacts.org/what-foods-are-gmo/)
 
