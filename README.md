@@ -18,6 +18,9 @@
 
 [What Foods are Genetically Modified?](https://www.bestfoodfacts.org/what-foods-are-gmo/) also serves as picture reference
 
+## GMO Opinions
+
+[Think GMOs Aren't Regulated? Think Again](https://www.forbes.com/sites/gmoanswers/2015/12/21/how-are-gmos-regulated/#1d6484ba6255) also serves as a picture reference. 
 ---
 
 ## Home Page
